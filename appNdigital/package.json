@@ -22,7 +22,7 @@
         "classnames": "^2.2.6",
         "cross-env": "^5.1",
         "history": "^4.9.0",
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "laravel-mix": "^4.0.15",
         "lodash": "^4.17.15",
         "mdbreact": "^4.16.0",
